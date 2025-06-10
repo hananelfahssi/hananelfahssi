@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Hanan El Fahssi</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
+
+
 - 🎓 I'm a Computer Engineering student passionate about building modern web applications  
 - 🌱 Currently exploring full-stack technologies  
 - 📫 Reach me at: **hananelfahssi02@gmail.com**  
 - ⚡ Fun fact: I enjoy turning real-world challenges into elegant digital solutions
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,6 +16,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanan el fahssi" height="30" width="40" />
   </a>
 </p>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
